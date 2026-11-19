@@ -1,11 +1,4 @@
-# ⚡ AURA — Adaptive User Recommendation & Analytics Platform
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688.svg)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-11%20Passed-brightgreen.svg)]()
 
 > **AURA** (**A**daptive **U**ser **R**ecommendation & **A**nalytics) is an enterprise-grade, end-to-end platform combining a **multi-paradigm hybrid recommendation engine** with a **customer intelligence layer** (RFM segmentation, 30-day churn prediction, forward customer lifetime value, and cohort retention heatmaps). Built with **FastAPI**, **SQLite Star Schema**, **Scikit-Learn**, and **Streamlit**.
 
